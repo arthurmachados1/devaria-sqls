@@ -1,0 +1,1 @@
+# Repositório referentes aos scripts SQL do módulo de Bando de Ddos da Devaria
