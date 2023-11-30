@@ -1,1 +1,0 @@
-Repositório para scripts SQL do módulo de Bando de Dados Devaria
